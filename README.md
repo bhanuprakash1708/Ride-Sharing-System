@@ -467,12 +467,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team & Contact
 
-**Project Maintainer**: Your Name  
-**Email**: your.email@example.com  
-**GitHub**: [@yourusername](https://github.com/yourusername)  
-**Website**: [ridemate-campus.com](https://ridemate-campus.com)
-
-For support, email support@ridemate-campus.com or join our [Discord community](https://discord.gg/yourserver).
+**Project Maintainer**: Bhanu Prakash 
+**Email**: bhanu.prakash1708@gmail.com  
+**GitHub**: [@bhanuprakash1708](https://github.com/bhanuprakash1708)  
 
 ---
 
@@ -489,11 +486,13 @@ For support, email support@ridemate-campus.com or join our [Discord community](h
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/ridemate-campus?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/ridemate-campus?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/ridemate-campus)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/ridemate-campus)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/ridemate-campus)
+https://github.com/bhanuprakash1708/Ride-Sharing-System
+
+![GitHub stars](https://img.shields.io/github/stars/bhanuprakash1708/Ride-Sharing-System?style=social)
+![GitHub forks](https://img.shields.io/github/forks/bhanuprakash1708/Ride-Sharing-System?style=social)
+![GitHub issues](https://img.shields.io/github/issues/bhanuprakash1708/Ride-Sharing-System)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/bhanuprakash1708/Ride-Sharing-System)
+![GitHub last commit](https://img.shields.io/github/last-commit/bhanuprakash1708/Ride-Sharing-System)
 
 ---
 
