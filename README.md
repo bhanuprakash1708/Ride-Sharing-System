@@ -467,9 +467,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team & Contact
 
-**Project Maintainer**: Bhanu Prakash 
-**Email**: bhanu.prakash1708@gmail.com  
-**GitHub**: [@bhanuprakash1708](https://github.com/bhanuprakash1708)  
+- **Project Maintainer**: Bhanu Prakash 
+- **Email**: bhanu.prakash1708@gmail.com  
+- **GitHub**: [@bhanuprakash1708](https://github.com/bhanuprakash1708)  
 
 ---
 
