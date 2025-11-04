@@ -486,8 +486,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Project Stats
 
-https://github.com/bhanuprakash1708/Ride-Sharing-System
-
 ![GitHub stars](https://img.shields.io/github/stars/bhanuprakash1708/Ride-Sharing-System?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/bhanuprakash1708/Ride-Sharing-System?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/bhanuprakash1708/Ride-Sharing-System)
